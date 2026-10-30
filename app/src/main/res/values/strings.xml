@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filtro de red</string>
+    <string name="status_on">Bloqueo ACTIVO: Life360 no tiene internet.</string>
+    <string name="status_off">Bloqueo desactivado: Life360 funciona normal.</string>
+    <string name="status_not_installed">Life360 no está instalada en este teléfono.</string>
+    <string name="action_on">Activar bloqueo</string>
+    <string name="action_off">Desactivar bloqueo</string>
+    <string name="action_vpn_settings">Abrir ajustes de VPN</string>
+    <string name="help">Cómo funciona: solo el tráfico de Life360 pasa por esta VPN y se descarta. Las demás apps usan internet normal.\n\nPara que siga activo al reiniciar: en Ajustes de VPN, toca el engrane de \"Filtro de red\" y activa \"VPN siempre activa\".\n\nNO actives \"Bloquear conexiones sin VPN\": dejaría sin internet a todo el teléfono.\n\nLa otra persona verá que la ubicación dejó de actualizarse.</string>
+</resources>
